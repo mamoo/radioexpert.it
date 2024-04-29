@@ -11113,3 +11113,12 @@ footer.footer .social-link:hover {
 .puntovendita {
   background-color: #FF6500;
 }
+
+.readex-pro-radioexpert {
+  font-family: "Readex Pro", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  font-variation-settings:
+    "HEXP" 0;
+}
